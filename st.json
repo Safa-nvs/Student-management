@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "nme": "Markct",
+      "dob": "2024-12-02",
+      "gender": "Other",
+      "qualification": "MCom",
+      "phone": "6564737271",
+      "email": "mark12345@gmail.com",
+      "id": 3
+    },
+    {
+      "nme": "Mark",
+      "dob": "2024-12-02",
+      "gender": "Male",
+      "qualification": "MBA",
+      "phone": "6564737272",
+      "email": "mark123@gmail.com",
+      "id": 4
+    }
+  ]
+}
